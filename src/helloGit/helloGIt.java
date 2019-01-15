@@ -3,8 +3,8 @@ package helloGit;
 public class helloGIt {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("helloGit");
+		System.out.println("it's my 2nd push from SCIT36");
 	}
 
 }
